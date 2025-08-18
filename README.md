@@ -1,4 +1,4 @@
-<h3 align="left">Hello together</h3> 😊<br><br> <h4 align="self">I am a certified frontend developer from Germany with a passion for clean code and modern UI/UX. I am currently expanding my skills in the backend area (Python, Django, etc.) so that I can implement fullstack projects independently.<br><br>🤝I am open to exciting projects, exchange, and mutual learning.</h4>
+<h3 align="left">Hello together 😊</h3> <br><br> <h4 align="self">I am a certified frontend developer from Germany with a passion for clean code and modern UI/UX. I am currently expanding my skills in the backend area (Python, Django, etc.) so that I can implement fullstack projects independently.<br><br>🤝I am open to exciting projects, exchange, and mutual learning.</h4>
 
 ###
 
