@@ -1,1 +1,1 @@
-<h3 align="left">Hello together 😊</h3><h4 align="self"> My name is Simon Kiesner and I am a certified Fullstack Developer from Germany with a passion for clean code and modern UI/UX. <br><br>🤝I am open to exciting projects, exchange, and mutual learning.</h4>
+<h3 align="left">Hello together 😊</h3><h4 align="self"> My name is Simon Kiesner and I am a certified fullstack developer from Germany with a passion for clean code and modern UI/UX. <br><br>🤝I am open to exciting projects, exchange, and mutual learning.</h4>
